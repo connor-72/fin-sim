@@ -5,7 +5,7 @@
 ### The Plan:
 #### Phase 1
 - Build a simple UI where data can be entered and then the output will be created with some simple numbers and a visual to show the trend over time
-- Another tab will show how much a billionaires wealth grows
+- Another tab will show how much a billionaire's wealth grows
     - One part will show how fast it grows every second with a dynamic counter from the time you click on the tab
     - The other part will show a simple graph of the growth with some key metrics
 
